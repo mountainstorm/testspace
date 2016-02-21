@@ -154,7 +154,7 @@ prose:
           element: "text"
           label: "Tags"
           placeholder: "Enter tags, separated by spaces"
-      - name: "image.feature"
+      - name: "imagefeature"
         field:
           element: "text"
           label: "Featured Image"

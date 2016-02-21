@@ -5,7 +5,10 @@ tags: []
 image:
   feature: Hossain-Mohd-Faysal.jpg
 ---
-
+<figure>
+  <img src="{{ site.url }}/images/hossain-faysal.jpg" alt="Hossain Mohammad Faysal">
+  <figcaption>Hossain Mohammad Faysal</figcaption>
+</figure>
 
 >Entrepreneur
 >
