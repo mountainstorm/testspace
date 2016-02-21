@@ -7,10 +7,7 @@ categories: personal
 tags: 
   - blogging
   - jekyll
-image: 
-  feature: "website-speed.jpg"
-  credit: spreadeffect.com
-  creditlink: "http://www.spreadeffect.com/blog/improve-website-speed/"
+imagefeature: disneyland.jpg
 comments: false
 mathjax: null
 featured: true
