@@ -1,16 +1,25 @@
 ---
 layout: post
 type: photo
-title: "Sample Gallery Post"
-description: "Examples and code for displaying galleries in posts."
+title: Sample Gallery Post
+description: Examples and code for displaying galleries in posts.
 category: photos
-tags: [sample post, images, gallery, test]
-imagefeature: picture-16.jpg
+tags: "sample post,images,gallery,test"
+imagefeature: "picture-16.jpg"
 comments: true
-mathjax: 
+mathjax: false
+published: true
+headline: ""
+modified: ""
+categories: null
+imagecredit: ""
+imagecreditlink: ""
+video: ""
+featured: false
 ---
-Here is an example of what a post with a gallery might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
 
+Here is an example of what a post with a gallery might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
+![albert-einstein-2068-hd-wallpapers.jpg]({{site.baseurl}}/images/albert-einstein-2068-hd-wallpapers.jpg)
 <figure class="third">
 	<a href="{{ site.url }}/images/gallery1/photo (4).jpg"><img src="{{ site.url }}/images/gallery1/photo (3).jpg"></a>
 	<a href="{{ site.url }}/images/gallery1/photo (18).jpg"><img src="{{ site.url }}/images/gallery1/photo (17).jpg"></a>
